@@ -1,0 +1,2 @@
+# Collective_Intelligence
+同济大学软件工程机器智能方向群体智能课程项目
